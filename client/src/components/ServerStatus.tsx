@@ -1,0 +1,1 @@
+// ServerStatus component removed - using Django server configuration in api.ts
